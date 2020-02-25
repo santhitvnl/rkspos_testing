@@ -8,7 +8,7 @@ public class rkApps {
 
 	public static void main(String[] args) throws InterruptedException {
 		
-		
+		// Commented added by Ramesh Menta
 		WebDriver driver = new ChromeDriver();
 		
 		System.setProperty("WebDriver.chrome.driver", "D:/Softwares/chromedriver.exe");
