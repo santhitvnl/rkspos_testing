@@ -9,6 +9,7 @@ public class rkApps {
 	public static void main(String[] args) throws InterruptedException {
 		
 		// Commented added by Ramesh Menta added by santhi
+		// Commented added by Ramesh Menta, it is now added by ramesh again
 		// added 2nd line by Ramesh Menta
 		WebDriver driver = new ChromeDriver();
 		
